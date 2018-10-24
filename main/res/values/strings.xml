@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="user">user</string>
+    <string name="pass">pass</string>
+    <string name="guardar">guardar</string>
+    <string name="cargar">cargar</string>
+    <string name="admin">Administrador</string>
+    <string name="invi">Invitado</string>
+    <string name="invit">Bienvenido Invitado</string>
+    <string name="add">Bienvenido Administrador</string>
+</resources>
